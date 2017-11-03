@@ -48,7 +48,7 @@
 
 <distributionManagement>
     <snapshotRepository>
-      <id>internal</id>
+      <id>ingenvis</id>
       <url>http://10.0.0.18:8080/repository/ingenvis/</url>
     </snapshotRepository>
   </distributionManagement>
